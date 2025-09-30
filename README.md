@@ -1,16 +1,25 @@
-# 안녕하세요! 꿈을 향해 달려가는 컴공이 입니다 👋
-
-저는 **컴퓨터 공학**을 전공 중인 대학생으로, **웹 개발**과 **소프트웨어 엔지니어링**에 관심이 많습니다. 다양한 기술을 배우고, 실용적인 프로젝트를 통해 경험을 쌓아가고 있습니다.
-
-### 🔧 사용 가능한 기술
-- **언어**: C, C++, Python
-- **웹 개발**: HTML, CSS, JavaScript, React
-- **기타**: Git, GitHub
-
-### 🌱 관심 분야와 학습 목표
-- **웹 개발**과 **클라우드 기술**에 대한 지식을 심화하고, 최신 트렌드에 맞춰 기술을 확장하고자 합니다.
-- **네트워크**와 **분산 시스템**에 대한 이해를 넓히고, 이를 실제 프로젝트에 적용할 수 있는 능력을 기르고자 합니다.
-- **오픈소스 프로젝트**에 기여하며, 다른 개발자들과 협업을 통해 성장하고 싶습니다.
-
-### 💬 연락처
-- 📧 이메일: [shlee4167@naver.com]
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=&animation=&fontColor=000000&fontSize=70" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 꿈을 향해 달려가는 컴공이 입니다 👋 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 저는 **컴퓨터 공학**을 전공 중인 대학생으로, **웹 개발**과 **소프트웨어 엔지니어링**에 관심이 많습니다. 다양한 기술을 배우고, 실용적인 프로젝트를 통해 경험을 쌓아가고 있습니다. </div> 
+    </div>
+    <div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+          </div>
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=SH-MooDy&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH-MooDy&layout=compact&bg_color=60,ffffff,ffffff&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
+    
